@@ -1,0 +1,19 @@
+Sarah (Scrum Master): Good morning everyone. Let's do our daily standup. Alex, you want to go first?
+
+Alex (Backend Developer): Sure. Yesterday I finished the API endpoint for user authentication. I also fixed that bug with the token refresh logic that was causing session timeouts. Today I'm going to start working on the payment integration with Stripe. No blockers for me right now.
+
+Sarah: Great progress on the auth work. Priya, you're next.
+
+Priya (Frontend Developer): Yesterday I completed the login page redesign and connected it to Alex's new auth API. Looks great now. Today I'm going to work on the dashboard components — specifically the charts and the activity feed. I do have a blocker though — I need the design specs for the mobile responsive layout. Maria hasn't shared those yet and I can't do the responsive work without them.
+
+Sarah: I'll follow up with Maria on the design specs today. Let's aim to get those by end of day. James?
+
+James (QA Engineer): Yesterday I wrote automated tests for the user registration flow — 15 test cases covering edge cases. Found two bugs which I've logged in Jira: PROJ-234 and PROJ-235. Today I'm going to test the auth endpoints that Alex just finished. Blocker: the staging environment is still down from last night's deployment failure. DevOps hasn't resolved it yet.
+
+Sarah: The staging issue is critical. I'll escalate that to Tom in DevOps right after this standup. We need staging back up by noon for testing.
+
+Alex: James, while staging is down, I can give you a local environment setup if that helps.
+
+James: That would be great, thanks Alex.
+
+Sarah: Perfect. So to summarize our blockers: design specs from Maria for Priya, and staging environment for James. I'll handle both escalations this morning. Anything else? No? Okay, great standup everyone. Let's have a productive day.

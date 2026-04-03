@@ -1,0 +1,41 @@
+Mark (Sales Rep): Hi Jennifer, thanks for taking the time to meet with us today. I understand you've been evaluating project management tools for your team at Nexus Corp?
+
+Jennifer (Prospect - VP of Operations): Yes, that's right. We have about 200 employees across three offices and we're currently using a combination of spreadsheets and email to track projects. It's become completely unmanageable.
+
+Mark: I can imagine. What specific pain points are you experiencing?
+
+Jennifer: The biggest issue is visibility. I have no idea what the status of projects is until I chase people down individually. Last month we missed a client deadline because two teams were working on overlapping tasks without knowing it. That cost us roughly $50,000 in penalties.
+
+Mark: That's significant. How many projects does your team manage at any given time?
+
+Jennifer: Usually between 30 and 40 active projects. We have about 15 project managers.
+
+Mark: Our platform would give you real-time dashboards across all 40 projects. You'd see status, blockers, and resource allocation in one view. Let me share my screen and show you the portfolio dashboard.
+
+[Demo of portfolio dashboard]
+
+Jennifer: That looks really useful. What about integrations? We use Salesforce for CRM and Slack for communication.
+
+Mark: We have native integrations with both. The Salesforce integration syncs project data bidirectionally, and Slack notifications can be configured per project. Would you like me to show you the Slack integration?
+
+Jennifer: Yes, definitely. Also, what about security? We deal with some sensitive government contracts, so SOC 2 compliance is a must.
+
+Mark: Absolutely. We're SOC 2 Type II certified and we also offer data residency options for government work. I can send you our security whitepaper after this call.
+
+Jennifer: That would be great. What's the pricing structure?
+
+Mark: For a team of 200, you'd be looking at our Enterprise plan at $25 per user per month, so $5,000 monthly or $54,000 annually with the yearly discount. That includes unlimited projects, all integrations, and priority support.
+
+Jennifer: That's within our budget range. We had allocated up to $70,000 annually for this. I'd need to get buy-in from our CTO, David Chen, though. He's very particular about tech stack decisions.
+
+Mark: Completely understand. Would it be helpful to set up a technical deep-dive session with David? We could bring our solutions architect to address any technical concerns.
+
+Jennifer: Yes, that would be perfect. David is available next Tuesday or Wednesday afternoon.
+
+Mark: Let me coordinate with our solutions architect and I'll send you calendar invites by end of day tomorrow. Is there anything else you'd like to see in the meantime?
+
+Jennifer: Can you send me a comparison sheet showing how you stack up against Monday.com and Asana? Those are the other two we're evaluating.
+
+Mark: Absolutely, I'll include that with the security whitepaper. Jennifer, this has been a great conversation. I'm confident we can solve the visibility problem you described. Let's get that technical session booked.
+
+Jennifer: Sounds like a plan. Thanks Mark.

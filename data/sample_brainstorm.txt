@@ -1,0 +1,44 @@
+Lisa (Product Manager): Alright team, today's brainstorm is about improving our user onboarding. Our current 7-day retention rate is 23%, which is well below the industry average of 40%. We need ideas to get new users to their "aha moment" faster. Let's start with a rapid-fire round — just throw out ideas, no judgment.
+
+Dan (UX Designer): Interactive product tour instead of our current static walkthrough. Think tooltips that guide users through their first task.
+
+Kenji (Full-Stack Developer): What about a pre-built template gallery? New users could start with a populated workspace instead of a blank slate. That eliminates the "cold start" problem.
+
+Riya (Data Analyst): We should look at what our most successful users do in their first session. I ran some numbers — users who create their first project within 10 minutes have 3x the retention rate. So anything that gets them to create a project faster.
+
+Lisa: Great data point, Riya. Keep going.
+
+Dan: Personalized onboarding based on their role. A project manager needs a different first experience than a developer.
+
+Kenji: AI-powered setup wizard. User tells us their team size, industry, and goals, and we auto-configure their workspace.
+
+Riya: Gamification — progress bar showing onboarding completion percentage. People hate leaving progress bars incomplete.
+
+Dan: What about video onboarding? A 2-minute welcome video from our CEO explaining the core value prop. Feels more personal.
+
+Lisa: I like that one. How about something more radical?
+
+Kenji: Pair new users with an AI assistant for their first week. It proactively suggests actions and answers questions in context.
+
+Riya: Reverse trial — give everyone the premium features for 14 days. Our data shows premium users retain at 2x the rate of free users.
+
+Dan: Social proof during onboarding — show them "teams like yours use these features" with real metrics.
+
+Lisa: Okay, great list. Let's do a quick dot vote. Everyone pick your top three ideas.
+
+[Voting happens]
+
+Lisa: Results are in. Top voted ideas:
+1. AI-powered setup wizard — 4 votes (everyone)
+2. Template gallery with pre-built workspaces — 3 votes
+3. Personalized role-based onboarding — 3 votes
+
+The AI wizard and templates could actually work together really well.
+
+Kenji: Yeah, the AI wizard could recommend templates based on the user's answers. We could build a prototype in about two sprints.
+
+Dan: I can start on the UX flows for the wizard this week. We should also A/B test the current onboarding against the new version.
+
+Riya: I'll set up the analytics framework for the A/B test. We need to track time-to-first-project, 7-day retention, and feature adoption depth.
+
+Lisa: Love it. Let's park the reverse trial idea for now — it needs buy-in from the business team and has revenue implications. But I'll bring it up in the next leadership meeting. Let's reconvene on Thursday to review Dan's UX flows and Kenji's technical approach.
